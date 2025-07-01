@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+pyjokes
+pywhatkit
+wikipedia
+requests
+pygame
+tk
